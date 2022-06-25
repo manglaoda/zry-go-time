@@ -1,5 +1,5 @@
 package time
 
 func Test() int {
-	return 1234567
+	return 12345678
 }
